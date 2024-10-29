@@ -24,11 +24,11 @@ module.exports = {
       },
       {
         title: 'Add-ons',
-        path: 'https://developer.adobe.com/express/add-ons'
+        path: '/express/add-ons'
       },
       {
         title: 'Embed SDK',
-        path: 'https://developer.adobe.com/express/embed-sdk'
+        path: '/express/embed-sdk'
       },
       {
         title: 'Documentation',
@@ -55,4 +55,3 @@ module.exports = {
   },
   plugins: [`@adobe/gatsby-theme-aio`]
 };
-
