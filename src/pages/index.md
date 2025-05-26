@@ -25,7 +25,7 @@ import LearnMore from "./adobe-express/learnmore.md"
 
 ## Unlock creativity anywhere.
 
-[Adobe Express](https://adobe.com/express) is the quick and easy create-anything app for social posts, images, videos, flyers, and more. Discover:
+[Adobe Express](https://adobe.com/express) is the quick and easy create-anything app for social posts, images, videos, flyers, and more.
 
 - [Add-ons](https://developer.adobe.com/express/add-ons)
 - [Embed SDK](https://developer.adobe.com/express/embed-sdk)
