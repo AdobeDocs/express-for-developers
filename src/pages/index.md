@@ -21,11 +21,13 @@ import bgImg from './images/Summary-background.svg'
 import SpaceContent from './adobe-express/spaceAbility.md'
 import LearnMore from "./adobe-express/learnmore.md"
 
-<Hero slots="heading, text, buttons, assetsImg" customLayout variant="halfwidth" className="add-ones-hero adobe-express-hero"/>
+<Hero slots="heading, text, text2, buttons, assetsImg" customLayout variant="halfwidth" className="add-ones-hero adobe-express-hero"/>
 
 ## Unlock creativity anywhere.
 
 [Adobe Express](https://adobe.com/express) is the quick and easy create-anything app for social posts, images, videos, flyers, and more.
+
+Discover how to build:
 
 - [Add-ons](https://developer.adobe.com/express/add-ons)
 - [Embed SDK](https://developer.adobe.com/express/embed-sdk)
@@ -116,7 +118,7 @@ Kajabi users can build polished brand and marketing assets for their businesses 
 
 ### Dive right in.
 
-Explore which Adobe Express add-ons to build into your platform or learn more about the Adobe Express Embed SDK.
+Explore Adobe Express add-ons or embed creative tools directly in your app.
 
 - [Add-ons](https://developer.adobe.com/express/add-ons)
 - [Embed SDK](https://developer.adobe.com/express/embed-sdk)
