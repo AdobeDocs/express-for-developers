@@ -118,7 +118,7 @@ Kajabi users can build polished brand and marketing assets for their businesses 
 
 ### Dive right in.
 
-Explore which Adobe Express add-ons to build into your platform or learn more about the Adobe Express Embed SDK.
+Explore Adobe Express add-ons or embed creative tools directly in your app.
 
 - [Add-ons](https://developer.adobe.com/express/add-ons)
 - [Embed SDK](https://developer.adobe.com/express/embed-sdk)
