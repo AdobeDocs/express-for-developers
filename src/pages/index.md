@@ -4,15 +4,16 @@ keywords:
   - Adobe Express Embed SDK
   - Express developer platform
   - Add-ons
-  - Embed SDK 
+  - Embed SDK
   - Creative SDK
   - Acrobat
   - Creative Cloud desktop
   - Blog
 title: Adobe Express Developer Platform
-description: Adobe Express Embed SDK is an all-in-one design, photo, and video tool to make content creation easy. Build add-ons for Adobe Express or embed Adobe Express features into your application. 
+description: Adobe Express is the quick and easy create-anything app for social posts, images, videos, flyers, and more. Build add-ons for Adobe Express or embed Adobe Express features into your application
 contributors:
   - https://github.com/amandahuarng
+  - https://github.com/undavide
 ---
 
 import './styles/main.css'
@@ -24,7 +25,7 @@ import LearnMore from "./adobe-express/learnmore.md"
 
 ## Unlock creativity anywhere.
 
-[Adobe Express](https://adobe.com/express) is an all-in-one design, photo, and video tool to make content creation easy. Build add-ons for Adobe Express or embed Adobe Express features into your application. Learn more about:
+[Adobe Express](https://adobe.com/express) is the quick and easy create-anything app for social posts, images, videos, flyers, and more.
 
 - [Add-ons](https://developer.adobe.com/express/add-ons)
 - [Embed SDK](https://developer.adobe.com/express/embed-sdk)
@@ -52,8 +53,8 @@ Add-ons are applications that helps users add content to their pages, share thei
 
 Check out all the add-ons available in Adobe Express.
 
-- [Explore more](https://new.express.adobe.com/new?category=addOns)
-  
+- [Explore more](https://express.adobe.com/add-ons)
+
 <TextBlock slots="heading,text,image,buttons" theme="light" headerElementType="h2" variantsTypePrimary='secondary' variantStyleFill = "outline" homeZigZag className="explore unleash-power" position="right" />
 
 ### Bring Adobe Express functionality to your website with the Embed SDK.
@@ -64,7 +65,7 @@ Give your users of all skills levels the power to edit and create with access to
 
 - [Try the demo](https://demo.expressembed.com)
 - [View documentation](https://developer.adobe.com/express/embed-sdk/docs/guides)
-  
+
 <TextBlock slots="heading" className="announcement exploreCapabilities walkthetalk" theme="light"/>
 
 ### Trusted by leading tools.
@@ -97,7 +98,7 @@ Kajabi users can build polished brand and marketing assets for their businesses 
 
 ### Blog
 
-[Link to blog post](https://blog.developer.adobe.com/adobe-express-introduces-add-ons-for-developers-24ca166a5614)
+[Link to blog post](https://blog.developer.adobe.com)
 
 ![Add-on Community](./images/Add-ons-community.svg)
 
