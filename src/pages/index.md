@@ -110,9 +110,9 @@ Kajabi users can build polished brand and marketing assets for their businesses 
 
 ![Embed SDK forum](./images/Embed-forums.png)
 
-### Embed SDK forum
+### Adobe Express developers forum
 
-[link to embed forum](https://community.adobe.com/t5/adobe-express-embed-sdk/ct-p/ct-express-embed-sdk?page=1&sort=latest_replies&lang=all&tabid=all)
+[link to Adobe Express developers forum](https://community.adobe.com/t5/adobe-express-developers/ct-p/ct-adobe-express-developers)
 
 <TeaserBlock  slots="heading,text,buttons" textColor="white" bgURL={bgImg} className="viewAddOn creative-express" variant="fullwidth"/>
 
